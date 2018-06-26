@@ -1,0 +1,13 @@
+﻿  Creating makefile for MyProjectEditor (ini files are newer than UBTMakefile)
+  Deleting old hot reload file: "D:\Unreal Projects\MyProject\Binaries\Win64\UE4Editor-MyProject-7495.dll".
+  Deleting old hot reload file: "D:\Unreal Projects\MyProject\Binaries\Win64\UE4Editor-MyProject-7495.pdb".
+  Deleting old hot reload file: "D:\Unreal Projects\MyProject\Binaries\Win64\UE4Editor-MyProject-7617.dll".
+  Deleting old hot reload file: "D:\Unreal Projects\MyProject\Binaries\Win64\UE4Editor-MyProject-7617.pdb".
+  Performing 3 actions (4 in parallel)
+  MyProjectProjectile.cpp
+  [2/3] Link UE4Editor-MyProject.dll
+  [3/3] Link UE4Editor-MyProject.lib
+     Creating library D:\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject.lib and object D:\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject.exp
+     Creating library D:\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject.suppressed.lib and object D:\Unreal Projects\MyProject\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-MyProject.suppressed.exp
+  Deploying MyProjectEditor Win64 Development...
+  Total build time: 68.84 seconds (Local executor: 2.53 seconds)
